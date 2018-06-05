@@ -1,0 +1,4 @@
+* Para probar los proyectos en ambos casos se debe ejecutar primeramente el comando npm install en la consola
+Usuario de prueba
+email: antonio@mail.com
+contraseña: 12345
